@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# **iTunes Wish List**
+a React App where a user can build an iTunes Wish List. App was built using REACT, BOOTSTRAP, API, JAVASCRIPT
+You can view this app online, visit: 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **1. Project Description**
+Seach for items in the iTunes store and add them to a wish list. You can then view your wish list as well as add & delete items.
 
-## Available Scripts
+### ***2. Table of Content***
+1. iTunes Wish List product information 
+2. TOC
+3. How to use the iTunes Wish List App:
+	* Home Page
+	* Wish List Page
 
-In the project directory, you can run:
+4. Installation instructions
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### ***3. How Weddings Decor Shop online shop works***
+###### Home Page:
+1. Step 1: Select the media typr from the dropdown, eg 'book'.
+2. Step 2: Enter your seach key words into the input box, eg "HTML for beginners'.
+3. Step 3: Click on the "search" button
+4. Step 4: Your search results will display in a table format.
+5. Step 5: Click on the right hand "Add" button to add an item to your wish list
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+###### Wish List Page:
+6. Step 6: Go to the "Go To Wish List" navigation tab on your top right hand window.
+7. Step 7: View all your wish list items. You can delete an item as well.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ***4. Installation instructions***
+Please click on the URL and open the page in a web browser (eg. Chrome, Firefox, Edge).
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Alternatively, download all the folders onto your local PC.
+Go to the folder and open your command line interface / powershell.
+Enter "npm init" in your command line interface and let it .
+open the App in your browser: http://localhost:3000/
