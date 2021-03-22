@@ -1,6 +1,6 @@
 # **iTunes Wish List**
 a React App where a user can build an iTunes Wish List. App was built using REACT, BOOTSTRAP, API, JAVASCRIPT
-You can view this app online, visit: 
+You can view this app online, visit: https://tranquil-woodland-15636.herokuapp.com/
 
 ## **1. Project Description**
 Seach for items in the iTunes store and add them to a wish list. You can then view your wish list as well as add & delete items.
@@ -29,7 +29,7 @@ Seach for items in the iTunes store and add them to a wish list. You can then vi
 7. Step 7: View all your wish list items. You can delete an item as well.
 
 ### ***4. Installation instructions***
-Please click on the URL and open the page in a web browser (eg. Chrome, Firefox, Edge).
+Please click on the URL https://tranquil-woodland-15636.herokuapp.com/ and open the page in a web browser (eg. Chrome, Firefox, Edge).
 
 Alternatively, download all the folders onto your local PC.
 Go to the folder and open your command line interface / powershell.
